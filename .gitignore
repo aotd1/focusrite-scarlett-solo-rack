@@ -1,0 +1,11 @@
+build/
+.venv/
+review/
+MODEL_CONTEXT.md
+__pycache__/
+*.pyc
+.DS_Store
+.env
+.env.*
+*.key
+*.pem

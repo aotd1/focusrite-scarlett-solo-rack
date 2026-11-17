@@ -1,0 +1,42 @@
+{
+  "project": "focusrite-scarlett-solo-rack",
+  "github_mirror": "https://github.com/aotd1/focusrite-scarlett-solo-rack",
+  "makerworld_url": "https://makerworld.com/en/models/3630615-scarlett-solo-4th-gen-10-inch-rack-mount",
+  "license": "CC BY-NC 4.0",
+  "variants": [
+    "knob-cup",
+    "centered-solid",
+    "centered-front-vents"
+  ],
+  "version": "1.0.0",
+  "makerworld_status": "published",
+  "print_profiles": [
+    {
+      "printer": "P1S",
+      "variant": "knob-cup",
+      "material": "PETG",
+      "nozzle_mm": 0.4,
+      "layer_mm": 0.2,
+      "file": "profiles/p1s/knob-cup-p1s-petg.3mf",
+      "makerworld_url": "https://makerworld.com/en/models/3630615-scarlett-solo-4th-gen-10-inch-rack-mount#profileId-4163291"
+    },
+    {
+      "printer": "P1S",
+      "variant": "centered-solid",
+      "material": "PETG",
+      "nozzle_mm": 0.4,
+      "layer_mm": 0.2,
+      "file": "profiles/p1s/centered-solid-p1s-petg.3mf",
+      "makerworld_status": "draft"
+    },
+    {
+      "printer": "P1S",
+      "variant": "centered-front-vents",
+      "material": "PETG",
+      "nozzle_mm": 0.4,
+      "layer_mm": 0.2,
+      "file": "profiles/p1s/centered-front-vents-p1s-petg.3mf",
+      "makerworld_status": "draft"
+    }
+  ]
+}

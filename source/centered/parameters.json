@@ -1,0 +1,25 @@
+{
+  "units": "mm",
+  "body_height_mm": 44.1,
+  "vertical_clearance_mm": 0.4,
+  "remove_rubber_feet": true,
+  "opening_width_mm": 144.0,
+  "front_panel_depth_mm": 2.6,
+  "lower_extension_width_mm": 213.0,
+  "rear_side_wall_mm": 2.0,
+  "front_reinforced_depth_mm": 24.0,
+  "depth_mm": 84.2,
+  "sleeve_slots": {
+    "width_mm": 6,
+    "length_mm": 20,
+    "depth_ranges_mm": [[30, 50], [56, 76]],
+    "top_bottom_columns": 11,
+    "side_columns": 3
+  },
+  "front_slots": {
+    "width_mm": 6,
+    "length_mm": 26,
+    "centers_x_mm": [-102, -92, -82, 82, 92, 102],
+    "center_z_mm": 20.449996948242188
+  }
+}

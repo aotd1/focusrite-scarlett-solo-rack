@@ -1,0 +1,54 @@
+{
+  "source_sha256": "f3f46b77300a6e772a7b40e54f98b396b537abdbb055e125f729e283f74680a0",
+  "duration_seconds": 4,
+  "crop_xywh": [
+    0,
+    276,
+    464,
+    348
+  ],
+  "aspect_ratio": "4:3",
+  "audio": false,
+  "mp4_codec": "H.264 / yuv420p / faststart",
+  "mp4_fps": 30,
+  "gif_fps": 15,
+  "files": [
+    {
+      "path": "knob-demo.mp4",
+      "bytes": 366311,
+      "sha256": "36f2dc0fd89060278d9490b6565bab329e947926b8f07d5bc905038da844c6be"
+    },
+    {
+      "path": "knob-demo.gif",
+      "bytes": 3641191,
+      "sha256": "4841a982a84ae1b47a2aa3c4e732227f7e3711f137df7418f786aab5bffdbcf1"
+    },
+    {
+      "path": "knob-demo-poster.png",
+      "bytes": 118137,
+      "sha256": "b20bdc4ea3308a6d8fb9086c8794918a351769fdd5d6afcaba514b55fc212ece"
+    }
+  ],
+  "photo": {
+    "path": "installed-photo.png",
+    "sha256": "ccca3b06d8c8ede0b94b7084a750eb54102a15691b325866f5b8448a99044df4",
+    "metadata_removed": true,
+    "pixels_unchanged": true
+  },
+  "additional_photos": [
+    {
+      "path": "installed-front.jpg",
+      "sha256": "e9e178dfc4fe0be791a8908ccdb95db7a5dfe0fe39d62c379c338497071abd8b",
+      "pixels_unchanged": true,
+      "private_metadata_removed": true,
+      "orientation_preserved": true
+    },
+    {
+      "path": "installed-rack.jpg",
+      "sha256": "78ece4cbfbdbf0b27631003089d6054fccf79de0db3392eeacaf87dbec36e61e",
+      "pixels_unchanged": true,
+      "private_metadata_removed": true,
+      "orientation_preserved": true
+    }
+  ]
+}

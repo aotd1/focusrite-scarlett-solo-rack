@@ -1,0 +1,62 @@
+{
+  "printer": "Bambu Lab P1S",
+  "variant": "knob-cup",
+  "verified_settings": {
+    "printer_model": "Bambu Lab P1S",
+    "nozzle_diameter": "0.4",
+    "layer_height": "0.2",
+    "initial_layer_print_height": "0.2",
+    "wall_loops": "2",
+    "top_shell_layers": "5",
+    "bottom_shell_layers": "5",
+    "sparse_infill_density": "20%",
+    "sparse_infill_pattern": "gyroid",
+    "enable_support": "1",
+    "support_type": "normal(auto)",
+    "support_on_build_plate_only": "1",
+    "support_top_z_distance": "0.2",
+    "support_interface_top_layers": "2",
+    "enable_prime_tower": "0",
+    "brim_type": "no_brim",
+    "filament_type": "PETG",
+    "nozzle_temperature": "250",
+    "nozzle_temperature_initial_layer": "250",
+    "textured_plate_temp": "75",
+    "textured_plate_temp_initial_layer": "75",
+    "curr_bed_type": "Textured PEI Plate",
+    "filament_max_volumetric_speed": "12"
+  },
+  "mesh_vertex_max_deviation_mm": 5.6145063540078174e-06,
+  "size_mm": [
+    208.14657599999998,
+    208.14657599999998,
+    84.199997
+  ],
+  "watertight": true,
+  "components": 1,
+  "layers": 421,
+  "last_layer_mm": 84.2,
+  "cup_support_interface_layers_mm": [
+    12.6,
+    12.8
+  ],
+  "cup_membrane_extrusion_layers_mm": [
+    13.2,
+    13.4
+  ],
+  "magnet_pocket_center_clear": true,
+  "toolpath_xy_bounds_mm": [
+    [
+      24.139,
+      22.139
+    ],
+    [
+      231.861,
+      229.861
+    ]
+  ],
+  "max_flow_mm3_s_on_moves_ge_0p1mm": 11.632831272886477,
+  "estimated_time": "4h 18m 29s",
+  "estimated_filament_g": 64.15,
+  "sha256": "2b5a699c73fd417653165119bba0658eb1a3e5acd1c35c71b8cae6561ddf7889"
+}
